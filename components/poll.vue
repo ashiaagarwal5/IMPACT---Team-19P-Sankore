@@ -18,7 +18,7 @@ const question = ref();
 
 import OpenAI from 'openai';
 
-const openai = new OpenAI({ apiKey: 'sk-proj-ibgwvRIRVCXmho6WLVNAT3BlbkFJ7Ug4oQaWoa07vK94zxJe', dangerouslyAllowBrowser: true});
+const openai = new OpenAI({ apiKey: OPENAI_API_KEY, dangerouslyAllowBrowser: true});
 
 async function main() {
   const completions = await openai.chat.completions.create({
