@@ -1,7 +1,9 @@
 # TEAM 19P - I.M.P.A.C.T: Sankore's Handcoded Business Consulting Application
 
 Team Lead: Ashia Agarwal - Technical Architect
+
 Member: Varshini Byreddy - Business Consultant
+
 Member: Sahana Peechara - Designer
 
 Sankore: Business Consulting Firm with a focus in DEI(Diversity, Equity, Inclusion)
