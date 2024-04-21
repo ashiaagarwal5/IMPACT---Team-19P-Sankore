@@ -1,6 +1,12 @@
-# Nuxt 3 Minimal Starter
+# TEAM 19P - I.M.P.A.C.T: Sankore's Handcoded Business Consulting Application
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Team Lead: Ashia Agarwal - Technical Architect
+Member: Varshini Byreddy - Business Consultant
+Member: Sahana Peechara - Designer
+
+Sankore: Business Consulting Firm with a focus in DEI(Diversity, Equity, Inclusion)
+
+Presentation Deck: https://drive.google.com/file/d/16pnwB_VVTJn9I61iJS6v23_VJ7h1LcwG/view?usp=sharing
 
 ## Setup
 
